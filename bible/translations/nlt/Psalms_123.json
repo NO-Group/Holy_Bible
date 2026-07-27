@@ -1,0 +1,23 @@
+{
+    "translation": "NLT",
+    "book": "Psalms",
+    "chapter": 123,
+    "verses": [
+        {
+            "verse": 1,
+            "text": "I lift my eyes to you,<br>O God, enthroned in heaven.<br>"
+        },
+        {
+            "verse": 2,
+            "text": "We keep looking to the LORD our God for his mercy,<br>just as servants keep their eyes on their master,<br>as a slave girl watches her mistress for the slightest signal.<br>"
+        },
+        {
+            "verse": 3,
+            "text": "Have mercy on us, LORD, have mercy,<br>for we have had our fill of contempt.<br>"
+        },
+        {
+            "verse": 4,
+            "text": "We have had more than our fill of the scoffing of the proud<br>and the contempt of the arrogant.<br>"
+        }
+    ]
+}
