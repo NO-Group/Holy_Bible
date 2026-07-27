@@ -1,0 +1,31 @@
+{
+    "translation": "NLT",
+    "book": "Psalms",
+    "chapter": 23,
+    "verses": [
+        {
+            "verse": 1,
+            "text": "The LORD is my shepherd;<br>I have all that I need.<br>"
+        },
+        {
+            "verse": 2,
+            "text": "He lets me rest in green meadows;<br>he leads me beside peaceful streams.<br>"
+        },
+        {
+            "verse": 3,
+            "text": "He renews my strength.<br>He guides me along right paths,<br>bringing honor to his name.<br>"
+        },
+        {
+            "verse": 4,
+            "text": "Even when I walk<br>through the darkest valley,<br>I will not be afraid,<br>for you are close beside me.<br>Your rod and your staff<br>protect and comfort me.<br>"
+        },
+        {
+            "verse": 5,
+            "text": "You prepare a feast for me<br>in the presence of my enemies.<br>You honor me by anointing my head with oil.<br>My cup overflows with blessings.<br>"
+        },
+        {
+            "verse": 6,
+            "text": "Surely your goodness and unfailing love will pursue me<br>all the days of my life,<br>and I will live in the house of the LORD<br>forever.<br>"
+        }
+    ]
+}
