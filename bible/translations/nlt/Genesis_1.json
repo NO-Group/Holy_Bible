@@ -1,0 +1,15 @@
+{
+    "translation": "NLT",
+    "book": "Genesis",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": "In the beginning God created the heavens and the earth."
+        },
+        {
+            "verse": 2,
+            "text": "The earth was formless and empty, and darkness covered the deep waters..."
+        }
+    ]
+}
